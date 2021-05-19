@@ -4,7 +4,7 @@
 <body bgcolor="33FFBB"> 
 <img src="proa.png" alt="imagem do PROA" height='80' />
 
- </body>
+
  
  
 </head>
@@ -95,7 +95,13 @@
                         <p><strong> Link Redes Sociais</strong> : <textarea name="lrd" cols="50" rows="5"></textarea></p>
                     </td>
                 </tr>
+                        <tr>
+                        <td>
+                            <input type="reset" value="Limpar">
+                            <input type="submit" value="Enviar">
+                        </td>
+                    </tr>
             </table>
-
+   </body>
 
 </html>
