@@ -1,0 +1,64 @@
+<html>
+    <head>
+        <title> Planeta semelhente a terra</title>
+        <link rel="icon" type="image.png" sizes="16x16" href="favicon-16x16.png">
+        <img src="proa.png" alt="imagem do PROA" height='80' />
+        <body bgcolor="EEFFE6">
+
+    </head>
+     <h1>  GJ 1214b</h1>
+     <img src="baixados.jpg" alt="novo plneta" height='250'/>
+     <img src="terra.jpg" alt="planeta terra" height='250'/>
+
+    <h2>Semelhança a terra</h2>
+
+    <p>Um grupo de astrônomos descobriu um novo planeta muito parecido com a Terra,
+         maior do que ela, e que poderia ter mais da metade de sua superfície coberta por água,
+          mostra um estudo publicado na revista especializada Nature. A "Super-Terra", como está 
+          sendo chamado o planeta (cujo nome oficial é GJ 1214b), está a 42 anos-luz de distância
+           em outro sistema solar, e seu raio é 2,7 vezes maior que o da Terra.</p>
+
+           <h3>Descobertas</h3>
+           <p>Sua descoberta, relatada no estudo do Centro Harvard-Smithsonian de Astrofísica, representa
+                "um grande passo à frente" na busca por mundos semelhantes à Terra, estimou Geoffrey Marcy,
+                 da Universidade da Califórnia, que escreveu um comentário sobre a "Super-Terra" na Nature. 
+                 O que ainda falta descobrir é a composição gasosa de seu entorno, destacou.</p>
+
+                 <p>O GJ 1214b tem uma órbita de 38 horas em torno de uma estrela pequena e fraca, que foi 
+                     vista pela primeira vez por oito telescópios terrestres comuns - não muito maiores daqueles
+                      usados por observadores amadores, de acordo com o Centro Harvard-Smithsonian.
+                    Sua relativa proximidade torna possível estudá-lo a ponto de determinar sua atmosfera. 
+                    "Isso faria dele a primeira 'Super-Terra' com atmosfera confirmada - mesmo que esta atmosfera 
+                    provavelmente não seja boa para a vida como a conhecemos", explicou David Charbonneau,
+                     que coordenou a equipe de pesquisa.</p>
+                   
+              <h4> Dados segundo os pesquisadores da área </h4>
+            <p>A temperatura do novo planeta, no entanto, é muito alta para abrigar formas de vida
+                 como as terrestres, explicaram os cientistas do Centro Harvard-Smithsonian em uma
+                nota. Sua densidade sugere que "é composto por cerca de três quartos de água e gelo,
+                e um quarto é rocha", segundo a pesquisa. "Há também fortes indícios de que o planeta
+                possua uma atmosfera gasosa".
+                Os cientistas calcularam a temperatura do GJ 1214b entre 120 e 280 graus Celsius - apesar da estrela central de seu sistema solar ter cerca de um quinto do tamanho do Sol. "Apesar de sua temperatura alta, este parece ser um mundo de água", disse Zachory Berta, estudante que primeiro identificou indicações da presença do planeta.
+                
+                "É muito menor, mais frio e mais parecido com a Terra do que qualquer outro exoplaneta",
+                 indicou Berta em uma nota. Exoplaneta ou planeta extra-solar é qualquer um localizado
+                 fora do nosso Sistema Solar. Berta explicou que parte da água da "Super-Terra"
+                provavelmente está em estado cristalino, que existe em ambientes com pressão
+                 atmosférica pelo menos 20 mil vezes superior à encontrada ao nível do mar
+                 em nosso planeta.
+                
+                Entretanto, numa comparação com o CoRoT-7b - outro planeta descoberto pelos
+                 cientistas que apresenta semelhanças com a Terra -, o GJ 1214b é bem mais fresco,
+                  segundo os astrônomos. O CoRoT-7b, por outro lado, tem densidade próxima à da Terra 
+                  (5,5 gramas por centímetro cúbico) e parece ser rochoso, enquanto o novo planeta
+                   aparenta ser bem menos denso, com 1,9 grama por centímetro cúbico.
+                
+                "Para manter a densidade do planeta tão baixa assim é preciso que contenha
+                 grandes quantidades de água", afirmou Marcy. "Deve haver uma enorme quantidade 
+                 de água, pelo menos 50% de sua massa".</p>
+     
+                <h5> Assista o video </h5>
+
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/nPwVH2jXSmw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</html>
