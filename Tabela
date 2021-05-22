@@ -1,0 +1,58 @@
+<html>
+
+<head>
+
+<title> Tabela da distribuição de água no Brasil</title>
+<link rel="icon" type="image.png" sizes="16x16" href="favicon-16x16.png">
+<img src="proa.png" alt="imagem do PROA" height='80' />
+<body bgcolor="EEFFE6">
+
+</head>
+
+<body>
+        <form>
+        <fieldset>
+                                 <legend>Tabela distribuição de água no Brasil</legend>
+	<table border='1' width='500'>
+		<thead>
+
+		<tr>
+			<th>Região(1000)km</th>
+			<th>Densidade demográfica (hab/km²)</th>
+			<th>Concentração dos recursos hidricos no Brasil</th>
+                        
+		</tr>
+		</thead>
+		<tbody>
+		<tr>
+			<td>Norte</td>
+			<td>4,12</td>
+			<td>68,5%</td>
+		</tr>		
+
+		<tr>
+			<td>Nordeste</td>
+			<td>34,15</td>
+			<td>3,3%</td>
+		</tr>
+
+		<tr>
+			<td>Centro-oeste</td>
+			<td>8,75</td>
+			<td>15,7%</td>
+		</tr>
+
+		<tr>
+			<td>Sudeste</td>
+			<td>86,92</td>
+			<td>6%</td>
+		</tr>
+
+		<tr>
+			<td>sul</td>
+			<td>48,58</td>
+			<td>6,5%</td>
+		</tr>	
+		</tbody>	
+	</table>
+</body>
