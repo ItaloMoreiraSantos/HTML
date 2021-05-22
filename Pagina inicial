@@ -1,0 +1,53 @@
+<html>
+                         <head>
+                               <title>Distribuição de água no Planeta</title>
+                               <link rel="icon" type="image.png" sizes="16x16" href="favicon-16x16.png">
+                               <img src="proa.png" alt="imagem do PROA" height='80' />
+                               <body bgcolor="EEFFE6">
+                         </head>
+
+                            <h1>Distribuição de água no Planeta</h1>
+
+                            <a href=" Cadastro.html">cadastre-se para mais informações</a>
+                            <a href="sobremim.html">Conheça quem fez o conteúdo</a>	
+                            <a href="planeta semelhante a terra.html">Planeta semelhante a terra</a>	
+                            <a href="Tabela.html">Tabela da distribuição de água no Brasil</a>	
+		
+
+                          <img src="agua2.jpg" alt="geleira" height='300'/>
+
+                          <h2>Àgua, como é sua distribuição</h2>
+                          <p>A água está distribuída de diversas formas e em diversos locais no planeta Terra.
+                           Grande parte desta água é de difícil acesso aos seres humanos. Vale lembrar também que a
+                          água não é só encontrada em estado líquido (mares, rios, lagos e oceanos), mas também a 
+                          encontramos em estado sólido (geleiras) e gasoso (água atmosférica).</p>
+
+                          <strong>Total de água doce e salgada no planeta</strong>
+
+                         <p> <italic>Água salgada</italic>: presente, principalmente, em mares e oceanos ela corresponde a
+                         97,5% do total de água do planeta Terra.
+                         <italic>Água doce</italic>: presente, principalmente, em rios, lagos e geleiras,
+                         corresponde a 2,5% do   total de água do planeta.</p>
+
+                         <strong>Geleiras</strong>
+                         <p>Representa cerca de 67,5% da água doce do planeta. Grande parte destas geleiras
+                          está presente nos polos sul e norte (Antártida e Ártico) do planeta. Também são
+                         encontradas geleiras nos topos das grandes cordilheiras espalhadas pelo mundo.</p>
+
+                         <img src="geleiras.jpg" alt="geleira" height='300'/>  
+                     
+                         <h3>Águas subterrâneas</h3>
+                         <p>Correspondem a cerca de 30% do total de água doce do planeta. São encontradas, 
+                          principalmente, nos aquíferos.</p>
+
+                         <strong>Permafrost</strong>
+                         <p>Espécie de terra congelada presente no extremo norte do planeta, em áreas com
+                            presença de tundra. Representa cerca de 0,8% da água doce do planeta.</p>
+
+                           <strong>Água de superfície e atmosférica</strong>
+
+                         <p> Águas de superfícies correspondem aos rios, lagos de água doce e riachos. Já a água 
+                          atmosférica é aquela que encontramos em estado de vapor (gasoso). As águas superficiais
+                          e atmosféricas correspondem a 0,4% da</p>
+ 
+     </html>
