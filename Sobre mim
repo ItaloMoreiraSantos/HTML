@@ -1,0 +1,20 @@
+<html> 
+
+ <head>
+
+     <title> sobre mim!</title>
+     <link rel="icon" type="image.png" sizes="16x16" href="favicon-16x16.png">
+     <img src="ivmds.jpg" alt="foto" height='250'/>
+     <img src="proa.png" alt="imagem do PROA" height='80' />
+     <body bgcolor="EEFFE6">
+
+ </head>
+
+    
+      <h1> Sobre mim </h1>
+
+
+     <p> Olá, meu nome é Italo, tenho 18 anos e criei está página para concluir a atividade da aula de HTML do PROA.
+Gosto muito de tecnologia, estou aprendendo todos os dias sobre várias novas tecnologias e vou continuar minha carreira nessa área.
+Espero que tenham gostado do conteódo, se cadastrem para receber +.... Grande abraço!!!
+</p>
