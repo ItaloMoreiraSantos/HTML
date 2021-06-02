@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> As Tartarugas Ninjas</title>
+    <link href='css/inicio.css' rel='stylesheet'>
+       
+</head>
+
+<body>
+
+    <div class="cabecalho">
+        <h1>As Tartarugas Ninjas</h1>
+    </div>
+
+    <div class="conteudo">
+    
+        <div class="barra-lateral-esquerda">
+            <ul>
+                <li><a href="inicio.html">Inicio</a></li>
+                <li><a href="leonardo.html">Leonardo</a></li>
+                <li><a href="donatello.html">Donatello</a></li>
+                <li><a href="raphael.html">Raphael</a>
+                <li><a href="michelangelo.html">Michelangelo</a>
+            </ul>
+        </div>
+
+        <div class="artigo">
+            
+            <img src='imagens/b.png' class='perfil'>
+            <h2> Criação dos personagens </h2>
+            <p>As Tartarugas Ninja (Teenage Mutant Ninja Turtles no original, frequentemente abreviado como TMNT),
+               é um grupo de quatro tartarugas antropomórficas, a quem lhes foi dado o nome de quatro artistas italianos do Renascimento,
+               e treinadas na arte do ninjutsu por um rato sensei antropomórfico, Splinter. A partir da sua casa, os esgotos de Nova Iorque,
+               batalham contra criminosos, senhores demoníacos, criaturas mutantes e alienígenas invasores, enquanto que ao mesmo tempo tentam
+               permanecer escondidos da sociedade.[1] Num ou noutro ponto e em quase todas as histórias TMNT, o Shredder, líder da secção de
+               Nova Iorque do grupo criminoso Foot Clan, é o arqui-inimigo de Splinter e das Tartarugas.</P>
+
+              <P> Criadas por Kevin Eastman e Peter Laird, a sua primeira aparição foi em 1984 na revista de banda desenhada
+               Teenage Mutant Ninja Turtles #1 publicada pela Mirage Comics, acabando mais tarde por expandir para séries animadas de televisão,
+               filmes, videojogos, brinquedos, e muitos outros produtos.[2][3] Durante o pico da popularidade da franquia, entre o final da década
+               de 1980 e inicio de 1990, ganharam fama e sucesso a nível mundial.
+               Atualmente a franquia pertence a Nickelodeon, empresa do grupo Viacom.. <br>
+               Fonte:<a href='https://tartarugas-ninjas.fandom.com'>Fandom</a></p>
+        </div>
+   <h3> Recomendado para entender melhor </h3>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/xmgIeSVzngI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    </div>
+
+    <div class="rodape">
+        <p>Copyright - Todos os direitos reservados</p>
+    </div>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lucida Sans", sans-serif;
+}
+
+.cabecalho {
+    background-color: #47c0a2;
+    color: #ffffff;
+    padding: 15px;
+    height:12vh;
+}
+
+
+.conteudo{
+    background-color: #1c6e5c;
+    color: #000black;
+    width: 100%;
+    display: flex;    
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: center;
+}
+
+.artigo {
+    width: 70%;
+    padding:1%;
+    display: inline-block;
+}
+
+.perfil{
+    display:block;
+    margin: 25px auto;
+    max-width: 25%;
+}
+
+.barra-lateral-esquerda, .barra-lateral-direita {
+    width:15%;
+    display:inline-block;
+    height:80vh;
+}
+
+
+.barra-lateral-esquerda ul {
+    list-style-type: none;
+    margin: 1%;
+    padding: 1%;
+}
+
+.barra-lateral-esquerda li {
+    padding: 8px;
+    margin-bottom: 7px;
+    background-color: #336699;
+    color: #ffffff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.barra-lateral-esquerda li a {
+    color: #ffffff;
+    text-decoration: none;
+    width:100%;
+    display: block;
+}
+
+.barra-lateral-esquerda li:hover {
+    background-color: #0099cc;
+}
+
+.barra-lateral-direita h2{
+    color: #000000;
+    margin: 10px 0;
+}
+
+.rodape {
+    background:#000000;
+    padding:1%;
+    color: #FFF;
+}
+
+
+/* Desse ponto em diante estamos falando em responsive*/
+@media screen and (max-width: 768px) {
+    .barra-lateral-esquerda, .barra-lateral-direita {
+        width: 100%;
+        height: 100%;
+        padding:2%;
+    }
+
+    .artigo{
+        padding:2%;
+        width:100%;
+        display: inline-block;
+    }
+
+    .rodape {
+        padding:5%;
+    }    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
