@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michelangelo As Tartarugas Ninjas</title>
+    <link href='css/michelangelo.css' rel='stylesheet'>
+</head>
+
+<body>
+
+    <div class="cabecalho">
+        <h1>Michelangelo "mike"</h1>
+    </div>
+
+    <div class="conteudo">
+    
+        <div class="barra-lateral-esquerda">
+            <ul> 
+                <li><a href="inicio.html">Inicio</a></li>
+                <li><a href="leonardo.html">Leonardo</a></li>
+                <li><a href="donatello.html">Donatello</a></li>
+                <li><a href="raphael.html">Raphael</a>
+                
+            </ul>
+        </div>
+
+        <div class="artigo">
+            
+            <img src='imagens/michelangelo.png' class='perfil'>
+            <h2>Divertido! </h2>
+            <p>Chame-me Mike ou Mikey. Eu sou definitivamente o mais divertido de todos os meus irmãos.
+               Eu amo jogos de vídeo, skateboarding, pranking os outros irmãos e duh, pizza !! Quem não gosta de Nova York
+               no estilo Pizza?? Quero dizer, eles são os melhores!!! Falando de pizza... Eu estou começando a ficar bastante fome.
+               DANG IT! Raph comeram toda a pizza.. <br>
+               Fonte:<a href='https://tartarugas-ninjas.fandom.com'>Fandom</a></p>
+        </div>
+
+        <div class="barra-lateral-direita">
+            <h2>Informações</h2>
+     <strong>      Espécie   </strong>                  <p>Tartaruga Mutante </p>
+      <strong>      Genêro    </strong>                 <p> Masculino  </p>
+       <strong>     Cor do Olho    </strong>            <p> azul  </p>
+       <strong>     Arma (s) de escolha   </strong>     <p> Nunchaku </p>
+        <strong>    Data de Nascimento   </strong>      <p> 1997 (15 anos) </p>
+        <strong>    Cor da Bandana      </strong>       <p> Laranja  </p>
+
+  
+        </div>
+    </div>
+
+    <div class="rodape">
+        <p>Copyright - Todos os direitos reservados</p>
+    </div>
+
+</body>
+
+</html>
+
+
+
+
+CSS
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lucida Sans", sans-serif;
+}
+
+.cabecalho {
+    background-color: #316e15;
+    color: #ffffff;
+    padding: 15px;
+    height:12vh;
+}
+
+
+.conteudo{
+    background-color: #539933;
+    color: #000black;
+    width: 100%;
+    display: flex;    
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: center;
+}
+
+.artigo {
+    width: 70%;
+    padding:1%;
+    display: inline-block;
+}
+
+.perfil{
+    display:block;
+    margin: 25px auto;
+    max-width: 25%;
+}
+
+.barra-lateral-esquerda, .barra-lateral-direita {
+    width:15%;
+    display:inline-block;
+    height:80vh;
+}
+
+
+.barra-lateral-esquerda ul {
+    list-style-type: none;
+    margin: 1%;
+    padding: 1%;
+}
+
+.barra-lateral-esquerda li {
+    padding: 8px;
+    margin-bottom: 7px;
+    background-color: #33998b;
+    color: #ffffff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.barra-lateral-esquerda li a {
+    color: #d4faff;
+    text-decoration: none;
+    width:100%;
+    display: block;
+}
+
+.barra-lateral-esquerda li:hover {
+    background-color: #0099cc;
+}
+
+.barra-lateral-direita h2{
+    color: #509e1c;
+    margin: 10px 0;
+}
+
+.rodape {
+    background:#000000;
+    padding:1%;
+    color: #FFF;
+}
+
+
+/* Desse ponto em diante estamos falando em responsive*/
+@media screen and (max-width: 768px) {
+    .barra-lateral-esquerda, .barra-lateral-direita {
+        width: 100%;
+        height: 100%;
+        padding:2%;
+    }
+
+    .artigo{
+        padding:2%;
+        width:100%;
+        display: inline-block;
+    }
+
+    .rodape {
+        padding:5%;
+    }    
+}
